@@ -8,11 +8,7 @@ A simple web game that simulates a bear trying to gather enough food (honey) all
 
 · Need to have node.js installed on the computer
 
-· Download the “Source Code and Presentation Video.zip” file
-
-· Inside that file find and unzip the Project.zip file
-
-· Please navigate to the unzipped Project directory and run the following commands in order-
+· Please navigate to the Project directory and run the following commands in order-
 
 npm install --save three
 
