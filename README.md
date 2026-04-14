@@ -16,7 +16,7 @@ npm install --save-dev vite
 
 npx vite
 
-**Watch ```Game.mp4```**
+### **Watch ```Game.mp4```**
 
 **Game Controls**
 
